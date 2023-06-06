@@ -36,7 +36,7 @@ After having finished as much of that as I can in 10 months, I will then just li
 
 ## Addendum
 
-Hey, it's me from the future here and [it's](https://speakspeak.com/grammar-articles/its-is-has-difference) been a crazy few months! If you cared about my plans you should definetly check up on my [conclusion](http://87.237.162.195:5173/conclusion/)! to this gap year I have taken.
+Hey, it's me from the future here and [it's](https://speakspeak.com/grammar-articles/its-is-has-difference) been a crazy few months! If you cared about my plans you should definetly check up on my [conclusion](https://travelblogftw.netlify.app/conclusion) to this gap year I have taken.
 
 ## Sources
 
