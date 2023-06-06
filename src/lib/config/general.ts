@@ -3,7 +3,7 @@ import type { ThemeConfig, HeadConfig, HeaderConfig, FooterConfig, DateConfig, F
 export const theme: ThemeConfig = [
   {
     name: 'cmyk',
-    text: '🖨 Light'
+    text: '🌕 Light'
   },
   {
     name: 'dracula',
@@ -18,32 +18,8 @@ export const theme: ThemeConfig = [
     text: '💦 Aqua'
   },
   {
-    name: 'synthwave',
-    text: '🌃 Synthwave'
-  },
-  {
     name: 'night',
     text: '🌃 Night'
-  },
-  {
-    name: 'lofi',
-    text: '🎶 Lo-Fi'
-  },
-  {
-    name: 'lemonade',
-    text: '🍋 Lemonade'
-  },
-  {
-    name: 'cupcake',
-    text: '🧁 Cupcake'
-  },
-  {
-    name: 'garden',
-    text: '🏡 Garden'
-  },
-  {
-    name: 'retro',
-    text: '🌇 Retro'
   },
   {
     name: 'black',
@@ -56,12 +32,24 @@ export const head: HeadConfig = {}
 export const header: HeaderConfig = {
   nav: [
     {
-      text: 'Get Started',
-      link: '/hello-world'
+      text: 'Welcome to my blog',
+      link: '/welcome'
     },
     {
-      text: 'Elements',
-      link: '/hello-world/elements'
+      text: 'Cleaning up in Pisa',
+      link: '/pisa'
+    },
+    {
+      text: 'Clipping into the Backrooms',
+      link: '/backrooms'
+    },
+    {
+      text: 'Hot tourist destinations',
+      link: '/volcano'
+    },
+    {
+      text: 'Conclusive thoughts about the gap year',
+      link: '/conclusion'
     }
   ]
 }
@@ -70,11 +58,11 @@ export const footer: FooterConfig = {
   nav: [
     {
       text: 'Feed',
-      link: '/atom.xml'
+      link: '/hello-world'
     },
     {
       text: 'Sitemap',
-      link: '/sitemap.xml'
+      link: '/hello-world/elements'
     }
   ]
 }
