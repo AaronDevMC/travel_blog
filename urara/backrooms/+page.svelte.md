@@ -13,7 +13,6 @@ tags:
 ---
 
 June 11th: Escape
-Beginning Ende März (Überleitung hier rein)
 ## The Backrooms
 
 ('!hide'So I was sitting there, having boarded my plane to the US and looking forward to the 17 hour flight to the US as the planes nose ('!hide'heißt das Ding so???) began to descend into the ground a)
@@ -28,6 +27,6 @@ Months passed, and the Backrooms became both a familiar and haunting place. We y
 
 As I was walking along the infinite rooms without any change in sight I heard a weird noise behind me, not daring to turn my head. I followed the infinite corridor in a hastle now, managing to open up my phone camera as I finally saw a green rectangle - a rectangle of the same color as the one shining on the roof of the room our plane arrived in. With the terrifying noises on the carpet coming ever so slightly closer to me I sprinted to the end of the corrior and flung myself into the almost tranprent rectangle.
 
-![Me running trough the corridor](/backrooms/run.gif)
+![Me running trough the corridor](https://imgur.com/a/Vei4vnT)
 
 I was planning on having my survival unknown until I remembered, that this paragraph wouldn't have been written if I weren't still alive. Sadly I am now located right at the foot of an erupting volcano in no mans land. You can find that story in the next entry
