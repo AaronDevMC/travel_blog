@@ -54,18 +54,6 @@ export const header: HeaderConfig = {
   ]
 }
 
-export const footer: FooterConfig = {
-  nav: [
-    {
-      text: 'Feed',
-      link: '/hello-world'
-    },
-    {
-      text: 'Sitemap',
-      link: '/hello-world/elements'
-    }
-  ]
-}
 
 export const date: DateConfig = {
   locales: 'en-US',
