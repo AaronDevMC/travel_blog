@@ -20,6 +20,17 @@ I'm beginning to think I might be a little unlucky tho.
 
 Anyways, reflecting on my gap year - I wouldn't see myself living it out another way. I have made friends, with the people in pisa and while I only narrowly did so, I survived a plane crash and a volcano, both of which were - in some absurd way - parts of my bucket list. And I generally feel like I gained the ability to apprechiate the simplistic nature of life.
 
+Talking about that bucket list: Here you go - thats what it looks like now
+
+```
+    [x] See the (no longer) leaning tower of Pisa
+    [ ] Visit the eifel tower
+    [x] Disaster Tourism
+        [x] See a volcano
+        [x] Go somewhere, where for some reason no one is left (and that looks like it was built by humans) <- I was thinking like Chernobyl or smth. lol
+    [ ] Visit the US <--- pretty sad that didn't happen
+```
+
 ## The future of my blog
 
 "So", you might be wondering, "will this blog be continuing?". Well the answer will sadly be know, studying computer science isn't exactly the topic you would post about on a blog. The existing posts will stay online indefinetly as an epic tale of what happened in my gap year.
